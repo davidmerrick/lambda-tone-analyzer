@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/davidmerrick/lambda-tone-analyzer.svg?branch=master)](https://travis-ci.org/davidmerrick/lambda-tone-analyzer)
 
-Lambda function which uses IBM's BlueMix to analyze tone of text. Written in NodeJS.
+Lambda function which uses [IBM's BlueMix](https://www.ibm.com/cloud-computing/bluemix/getting-started) to analyze tone of text. Written in NodeJS.
 
 ## Reference
 
